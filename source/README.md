@@ -17,9 +17,9 @@ Around 90% of the 246 million individuals who have vision issues including the e
 #### Using all this things to create an application on Mobile Device. 
 #### This Application should give them Voice.
 ### Idea : A Application that teaches anyone who want to learn this Language. Using this to even help them communicate.
-Demo Video of its Working: https://photos.app.goo.gl/kwhUEoYFGuKXsmtS7
-Source Code For My Application: https://github.com/mukundsrepository/ASLRecognition_Application_Android
+###### Demo Video of its Working: https://photos.app.goo.gl/kwhUEoYFGuKXsmtS7
+###### Source Code For My Application: https://github.com/mukundsrepository/ASLRecognition_Application_Android
 ##### Personal Belives: Teaching should be free, accessible by everyone, anywhere from the world.
-My Resume: https://drive.google.com/file/d/1RCCKUWTcpbylZ5pwE4mZ3L4TfJpUAzCN/view?usp=sharing
-My Linkdin Profile: https://www.linkedin.com/in/mukund-soni-150b28190/
-Contact No: 9992976692
+###### My Resume: https://drive.google.com/file/d/1RCCKUWTcpbylZ5pwE4mZ3L4TfJpUAzCN/view?usp=sharing
+###### My Linkdin Profile: https://www.linkedin.com/in/mukund-soni-150b28190/
+###### Contact No: 9992976692
